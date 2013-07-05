@@ -1,0 +1,5 @@
+[
+	{ "keys": ["ctrl+shift+s"], "command": "save_all" },
+	{ "keys": ["ctrl+alt+n"], "command": "advanced_new_file"},
+  { "keys": ["f12"], "command": "reindent", "args": {"single_line": false} }
+]
