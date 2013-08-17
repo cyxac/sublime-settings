@@ -1,4 +1,6 @@
 {
+  "mouse_wheel_switches_tabs": true,
+  "font_options": ["directwrite"],
 	"font_face": "Consolas",
 	"font_size": 10
 }

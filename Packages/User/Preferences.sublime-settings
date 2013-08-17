@@ -1,16 +1,18 @@
 {
 	"bold_folder_labels": true,
 	"caret_style": "phase",
-	"color_scheme": "Packages/User/Monokai Soda.tmTheme",
-	"font_size": 12,
+	"color_scheme": "Packages/User/Solarized (dark).tmTheme",
+	"font_size": 13.5,
 	"highlight_line": true,
 	"ignored_packages":
 	[
 	],
+	"save_on_focus_lost": true,
+	"soda_classic_tabs": true,
+	"soda_folder_icons": true,
 	"tab_size": 2,
 	"theme": "Soda Dark.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"vintage_start_in_command_mode": true,
-	"word_wrap": true,
-	"soda_classic_tabs": true
+	"word_wrap": true
 }
